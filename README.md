@@ -1,6 +1,6 @@
 # LastRatStanding
 
-Last Rat Standing (LRS) available to play here -
+Last Rat Standing (LRS) available to play here - https://realgradgamedev.itch.io/lastratstanding
 
 This repo contains all C# scripts used in the Unity project for LRS. This repo is updated after significant updates to the project. The scripts are grouped as follows:
 ###Audio
